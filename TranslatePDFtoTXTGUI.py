@@ -108,9 +108,9 @@ window.geometry('500x400')
 
 
 var1=tk.StringVar()
-var1.set('20191107000354292')
+var1.set(' ')
 var2=tk.StringVar()
-var2.set('thY2vGYgTKROz1q55Y8c')
+var2.set(' ')
 var3=tk.StringVar()
 var3.set('E:/pdf')
 var4=tk.StringVar()
